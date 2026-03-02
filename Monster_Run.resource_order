@@ -6,7 +6,7 @@
     {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"Note2","order":6,"path":"notes/Note2/Note2.yy",},
+    {"name":"Note2 ","order":6,"path":"notes/Note2/Note2.yy",},
     {"name":"Note3","order":10,"path":"notes/Note3/Note3.yy",},
     {"name":"obj_breakable","order":15,"path":"objects/obj_breakable/obj_breakable.yy",},
     {"name":"obj_dirt","order":13,"path":"objects/obj_dirt/obj_dirt.yy",},
